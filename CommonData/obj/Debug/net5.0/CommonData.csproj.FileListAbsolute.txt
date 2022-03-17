@@ -1,0 +1,15 @@
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\bin\Debug\net5.0\CommonData.deps.json
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\bin\Debug\net5.0\CommonData.runtimeconfig.json
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\bin\Debug\net5.0\CommonData.runtimeconfig.dev.json
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\bin\Debug\net5.0\CommonData.dll
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\bin\Debug\net5.0\ref\CommonData.dll
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\bin\Debug\net5.0\CommonData.pdb
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\CommonData.csproj.AssemblyReference.cache
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\CommonData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\CommonData.AssemblyInfoInputs.cache
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\CommonData.AssemblyInfo.cs
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\CommonData.csproj.CoreCompileInputs.cache
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\CommonData.dll
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\ref\CommonData.dll
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\CommonData.pdb
+C:\Users\lcantero\source\repos\CQRSPattern\CommonData\obj\Debug\net5.0\CommonData.genruntimeconfig.cache
